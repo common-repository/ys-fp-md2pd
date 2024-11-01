@@ -1,0 +1,23 @@
+# Copyright (C) 2017 Ys-Fp_md2pd
+# This file is distributed under the same license as the Ys-Fp_Md2Pd package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ys-fp_md2pd 01\n"
+"POT-Creation-Date: 2017-10-29 0:00:00+09:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#. Description of the plugin/theme
+msgid ""
+"When this plug-in is enabled, when future post, adjust the modify date to "
+"post date."
+msgstr ""
+"このプラグインを有効にすると、予約投稿時に、更新日時を公開日時に調整しま"
+"す。"
